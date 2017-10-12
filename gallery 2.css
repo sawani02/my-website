@@ -1,0 +1,17 @@
+/*added padding at body to have spacing behind the content of navbar*/
+
+body {
+	padding-top: 70px;
+}
+
+
+/*to change the color and other components of jumberton class*/
+.jumbotron {
+	color: brown;
+}
+
+/*change navbar color*/
+
+.navbar-inverse{
+	background: #2c3e50;
+}

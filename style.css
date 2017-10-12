@@ -1,0 +1,29 @@
+/*added padding at body to have spacing behind the content of navbar*/
+
+body {
+	padding-top: 70px;
+}
+
+
+/*to change the color and other components of jumberton class*/
+.jumbotron {
+	color: #2c3e50;
+	background: #ecf0f1;
+}
+
+/*change navbar color*/
+
+.navbar-inverse{
+	background: #2c3e50;
+}
+
+/*make navbar char color white, we make only anchor tags white*/
+
+.navbar-inverse .navbar-nav>li>a{
+	color: white;
+}
+
+/*white color to navbar brand class*/
+.navbar-inverse .navbar-brand {
+	color: white;
+}
