@@ -10,6 +10,7 @@ Future Work: Website in one page
 
 
 HTML file name and its css :
+To check the entire website filename is portfolio.html
 1. 	portfolio.html ---> app.css
 2. blog.html ---> blogstyle.css
 3. index.html ---> custom.css
